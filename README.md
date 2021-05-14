@@ -15,7 +15,29 @@ A Photo Editor App is the photo editor and photo capture app for mobile. A simpl
 
 # Filter Effect
 
-We can apply inbuild filter to the source using
+We can apply inbuild filter to the source
+
+# Sharpness
+
+https://user-images.githubusercontent.com/64221898/118266640-827b8200-b4d8-11eb-9028-7be5da5a9c9e.mp4
+
+# Contrast
+
+https://user-images.githubusercontent.com/64221898/118266649-85767280-b4d8-11eb-8cb4-96828af01ddc.mp4
+
+# Exposure
+
+https://user-images.githubusercontent.com/64221898/118266659-87d8cc80-b4d8-11eb-92f5-54ae15d8b0ea.mp4
+
+# Round
+
+https://user-images.githubusercontent.com/64221898/118266668-8a3b2680-b4d8-11eb-8531-9d2895d9a9a5.mp4
+
+
+
+
+
+
 
 
 # Text
