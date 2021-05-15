@@ -23,54 +23,51 @@ We can apply inbuild filter to the source
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64221898/118268741-675e4180-b4db-11eb-8cb2-deb2d1b48ec7.gif)
 
-![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/64221898/118268373-f28b0780-b4da-11eb-8194-07e510206f42.gif)
+# Round
+
+https://user-images.githubusercontent.com/64221898/118266668-8a3b2680-b4d8-11eb-8531-9d2895d9a9a5.mp4
+
+# Text
+We can add the text with inputText and colorCode like this 
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/64221898/118268389-f7e85200-b4da-11eb-8f6e-64cd7dfe6729.gif)
-
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/64221898/118268424-ff0f6000-b4da-11eb-9b4a-2f94e6e380e2.gif)
-
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/64221898/118268454-08003180-b4db-11eb-98f3-a49ff2150ba2.gif)
-
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/64221898/118268502-151d2080-b4db-11eb-92a3-afccacde2825.gif)
-
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/64221898/118268597-31b95880-b4db-11eb-8b53-5f25b65798c5.gif)
-
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/64221898/118268620-3b42c080-b4db-11eb-8aef-8544540b322b.gif)
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64221898/118268636-41d13800-b4db-11eb-8431-4fd3aaf8bb5c.gif)
-
-
-
-
-# Sharpness
-
-https://user-images.githubusercontent.com/64221898/118266640-827b8200-b4d8-11eb-9028-7be5da5a9c9e.mp4
-
-# Contrast
-
-https://user-images.githubusercontent.com/64221898/118266649-85767280-b4d8-11eb-8cb4-96828af01ddc.mp4
 
 # Exposure
 
 https://user-images.githubusercontent.com/64221898/118266659-87d8cc80-b4d8-11eb-92f5-54ae15d8b0ea.mp4
 
-# Round
+# Contrast
 
-https://user-images.githubusercontent.com/64221898/118266668-8a3b2680-b4d8-11eb-8531-9d2895d9a9a5.mp4
+https://user-images.githubusercontent.com/64221898/118266649-85767280-b4d8-11eb-8cb4-96828af01ddc.mp4
 
+# Vignette
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64221898/118268636-41d13800-b4db-11eb-8431-4fd3aaf8bb5c.gif)
 
+# Saturation
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/64221898/118268620-3b42c080-b4db-11eb-8aef-8544540b322b.gif)
 
+# Sharpness
 
+https://user-images.githubusercontent.com/64221898/118266640-827b8200-b4d8-11eb-9028-7be5da5a9c9e.mp4
 
+# Warmth
 
-# Text
-We can add the text with inputText and colorCode like this 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/64221898/118268597-31b95880-b4db-11eb-8b53-5f25b65798c5.gif)
 
+# Draw and Pixelate
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/64221898/118268502-151d2080-b4db-11eb-92a3-afccacde2825.gif)
 
 # Emoji and Stickers
 We can add the Emoji and Stickers which will return a list of emojis unicode.
+
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/64221898/118268424-ff0f6000-b4da-11eb-9b4a-2f94e6e380e2.gif)         ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/64221898/118268454-08003180-b4db-11eb-98f3-a49ff2150ba2.gif)
+
+# Share And Save
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/64221898/118268373-f28b0780-b4da-11eb-8194-07e510206f42.gif)
 
 # Benefits
 - Hassel free coding
